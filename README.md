@@ -15,9 +15,9 @@
 I am a passionate **B.Tech Computer Science Engineering** student specializing in **Data Science** at the **University of Petroleum and Energy Studies (UPES)**. I love exploring data, finding patterns, and building intelligent systems that solve real-world problems.
 
 *   🔭 I’m currently working on sharpening my machine learning and data analysis skills.
-*   🌱 Interested in learning more about **Advanced Deep Learning** and **Natural Language Processing**.
+*   🌱 I’m currently learning **Advanced Deep Learning** and **Natural Language Processing**.
 *   💬 Ask me about **Python, Machine Learning, and Data Analytics**.
-*   💭 I believe that *learning and growth stays forever!*
+*   💭 My philosophy: *learning and growth stays forever!*
 *   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aastha-baheti-900b732a1/)
 
 ---
@@ -62,20 +62,29 @@ I am a passionate **B.Tech Computer Science Engineering** student specializing i
 
 ## 🚀 Featured Projects
 
-📂 **[Pneumoscan-ai](https://github.com/aasthaa1612/Pneumoscan-ai)**
-*   An AI-powered application built using Python to analyze medical chest images and scan for signs of Pneumonia.
+**🩺 Pneumoscan-ai**
+<br/>
+An AI-powered application built using Python to analyze medical chest images and scan for signs of Pneumonia.
 
-📂 **[CodeAlpha Machine Learning Tasks](https://github.com/aasthaa1612/CodeAlpha)**
-*   **Car Price Prediction**: Machine Learning model to forecast car prices using features like brand, mileage, and specifications.
-*   **Iris Classification**: Classification model utilizing Sepal/Petal lengths to classify Iris flower species.
+**🚗 Car Price Prediction**
+<br/>
+Machine Learning model to forecast car prices using features like brand, mileage, and specifications.
 
-📂 **[AIML Projects](https://github.com/aasthaa1612/AIML)**
-*   A consolidated repository for AI/ML algorithms, data preprocessing techniques, and model performance evaluation scripts.
+**🌸 Iris Flower Classification**
+<br/>
+Classification model utilizing Sepal/Petal lengths to classify Iris flower species.
 
-📂 **[Annsetu](https://github.com/aasthaa1612/Annsetu)**
-*   A responsive web design project styled with custom CSS to build clean, user-friendly frontend layouts.
+**🤖 AIML Projects**
+<br/>
+A consolidated repository for AI/ML algorithms, data preprocessing techniques, and model performance evaluation scripts.
 
+**🌾 Annsetu**
+<br/>
+A responsive web design project styled with custom CSS to build clean, user-friendly frontend layouts.
 
+**🌐 DCN Projects**
+<br/>
+Data Communications and Networking scripts and implementations using Python.
 
 ---
 
